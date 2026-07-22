@@ -6,12 +6,12 @@
     <message>
         <location filename="../dbus/launcher1compat.cpp" line="41"/>
         <source>%1 removed successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ລຶບອອກສຳເລັດແລ້ວ</translation>
     </message>
     <message>
         <location filename="../dbus/launcher1compat.cpp" line="43"/>
         <source>Failed to remove the app</source>
-        <translation type="unfinished"></translation>
+        <translation>ບໍ່ສາມາດລຶບແອັບໄດ້</translation>
     </message>
 </context>
 </TS>
